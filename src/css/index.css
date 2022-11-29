@@ -8,7 +8,7 @@ body{
   font-family: montserrat;
 }
 #Section_top {
-  /* animation: change 10s infinite ease-in-out; */
+  animation: change 10s infinite ease-in-out;
   animation-duration: 50s;
   overflow: hidden;
   position: relative;
